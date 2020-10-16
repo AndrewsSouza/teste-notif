@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1065155377754",
+    "firebase_url": "https://agesonyva-2bbeb.firebaseio.com",
+    "project_id": "agesonyva-2bbeb",
+    "storage_bucket": "agesonyva-2bbeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065155377754:android:4c420be0a99139a7a93663",
+        "android_client_info": {
+          "package_name": "com.example.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065155377754-0qr9n560uetrj1848kb4938mgirf5bf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATlsIUSNCw62Vc0UUJue1R94nTFIGxc70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065155377754-0qr9n560uetrj1848kb4938mgirf5bf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065155377754:android:5e5dca76c032959aa93663",
+        "android_client_info": {
+          "package_name": "com.example.teste_notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065155377754-0qr9n560uetrj1848kb4938mgirf5bf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATlsIUSNCw62Vc0UUJue1R94nTFIGxc70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065155377754-0qr9n560uetrj1848kb4938mgirf5bf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
